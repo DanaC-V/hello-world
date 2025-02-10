@@ -1,3 +1,1 @@
-Un fisier si inca ceva
-lalala
-modificat in branch emergency
+Am preferat sa il pastrez asa 
