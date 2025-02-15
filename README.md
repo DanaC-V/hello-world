@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Adding some chnages to see how changes work
 
 Adding some more changes to see how pull works
+
+Adding a new change to checkout branches push in GitHub
